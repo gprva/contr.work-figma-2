@@ -150,3 +150,15 @@ font-weight: 400;
 line-height: normal;
 text-align: center;
 }
+.h3_card{
+    display: flex;
+    justify-content: center;
+}
+.card_h3_2{
+    color: #BC9060;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 0 10px;
+}
