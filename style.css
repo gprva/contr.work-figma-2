@@ -190,3 +190,14 @@ height: 217px;
 .history{
     margin-top: 166px;
 }
+.history_number{
+    display: flex;
+    justify-content: center;
+    width: 444px;
+
+}
+.history_card{
+    margin-right: 60px;
+    text-align: center;
+    font-size: 40px;
+}
