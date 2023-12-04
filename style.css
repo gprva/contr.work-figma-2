@@ -24,4 +24,14 @@ margin-right: 25px;
 }
 .corth{
     border-right: 1px solid #FFF;
+    height: 50px;
+    padding-right: 10px;
+}
+.corth_img{
+    position: absolute;
+    top: 20px;
+    right: 7px;
+}
+.phon_num{
+    
 }
