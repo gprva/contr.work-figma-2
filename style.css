@@ -103,7 +103,6 @@ margin-bottom: 21px;
 }
 .block_1_p::after{
     position: absolute;
-    content: ;
     width: 61px;
     height: 2px;
     background: #ffffff;
@@ -112,7 +111,6 @@ margin-bottom: 21px;
 }
 .block_1_p::before{
     position: absolute;
-    content: ;
     width: 61px;
     height: 2px;
     background: #ffffff;
