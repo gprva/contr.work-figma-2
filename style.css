@@ -1,3 +1,9 @@
 .container{
     margin: 0 auto 166px;
 }
+.header{
+    background-image: url(/img/bg\ header.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
