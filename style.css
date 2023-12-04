@@ -11,6 +11,7 @@
     padding-top: 50px;
     display: flex;
     align-items: center;
+    justify-content: space-around;
 }
 .header_a{
     color: #FFF;
@@ -21,6 +22,10 @@ font-weight: 700;
 line-height: normal;
 text-decoration: none;
 margin-right: 25px;
+transition: 0.5s;
+}
+.header_a:hover{
+    color: rgb(87, 83, 83);
 }
 .corth{
     border-right: 1px solid #FFF;
