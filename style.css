@@ -162,3 +162,31 @@ font-weight: 400;
 line-height: normal;
 padding: 0 10px;
 }
+.history_h2{
+    color: #000;
+font-family: Tinos;
+font-size: 54px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.history_h2_2{
+    color: #D67E34;
+    padding: 0 10px;
+font-size: 54px;
+font-weight: 400;
+}
+.history_p_tit{
+    color: #656363;
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+width: 444px;
+height: 217px;
+}
+.history_tit{
+    display: flex;
+}
+.history{
+    margin-top: 166px;
+}
