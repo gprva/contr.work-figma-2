@@ -220,3 +220,28 @@ line-height: normal;
     display: flex;
     justify-content: space-around;
 }
+.history_right{
+    display: flex;
+    justify-content: space-between;
+}
+.history_imges{
+    position: relative;
+}
+.imges-1{
+position: absolute;
+z-index: 999;
+top: 54px;
+left: 211px;
+}
+.imges-2{
+    position: absolute;
+    z-index: 999;
+    top: -92px;
+    left: 383px;
+}
+.imges-3{
+    position: absolute;
+    z-index: 999;
+    top: 246px;
+    left: 481px;
+}
