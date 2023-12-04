@@ -9,4 +9,19 @@
 }
 .all_header{
     padding-top: 50px;
+    display: flex;
+    align-items: center;
+}
+.header_a{
+    color: #FFF;
+font-family: Open Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration: none;
+margin-right: 25px;
+}
+.corth{
+    border-right: 1px solid #FFF;
 }
