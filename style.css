@@ -185,6 +185,7 @@ width: 444px;
 }
 .history_tit{
     display: flex;
+justify-content: center;
 }
 .history{
     margin-top: 166px;
@@ -214,4 +215,8 @@ font-size: 20px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+}
+.all_history{
+    display: flex;
+    justify-content: space-around;
 }
