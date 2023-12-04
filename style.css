@@ -117,3 +117,26 @@ margin-bottom: 21px;
     top: 127px;
     left: 308px;
 }
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin: 80px;
+}
+.card {
+    margin-bottom: 30px;
+    transition: all 0.5s ease 0s;
+    padding: 0px 32px;
+}
+.card:hover{
+    box-shadow: #000;
+}
+.card_p_txt{
+    color: #656363;
+text-align: center;
+font-family: Tinos;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
