@@ -296,4 +296,8 @@ left: 211px;
         padding: 0 23px;
         margin-bottom: 23px;
     }
+    .txt_tit{
+        display: flex;
+    justify-content: center;
+    }
     
