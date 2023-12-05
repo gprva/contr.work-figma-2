@@ -277,3 +277,9 @@ left: 211px;
     .block_4_txt{
         padding: 80px 165px;
     }
+    .food_block{
+        display: flex;
+        justify-content: center;
+        padding: 0 0 152px;
+    }
+    
