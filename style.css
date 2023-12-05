@@ -397,3 +397,9 @@ padding-top: 90px;
     color: #fff;
     border: 2px solid #373736;
 }
+.menu_item{
+    background: white;
+    text-align: center;
+    width: 33%;
+    padding-top: 80px;
+}
