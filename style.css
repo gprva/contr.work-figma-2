@@ -255,4 +255,14 @@ left: 211px;
 .btn_block_4{
     padding:  155px;
     }
-    
+.block_4_h2{
+        color: #D67E34;
+    font-family: Tinos;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 20px;
+    width: 601px;
+    height: 120px;
+    }
