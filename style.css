@@ -282,4 +282,13 @@ left: 211px;
         justify-content: center;
         padding: 0 0 152px;
     }
+    .food_p{
+        color: #000;
+    font-family: Tinos;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 40px 30px;
+    }
     
