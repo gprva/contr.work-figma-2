@@ -248,3 +248,7 @@ left: 211px;
 .block_4{
     background: url(/img/block_4.jpg) ;
 }
+.all_block_4{
+    display: flex;
+    justify-content: space-around;
+}
