@@ -308,4 +308,12 @@ left: 211px;
         font-weight: 400;
         line-height: normal;
     }
-    
+    .food_h2_2{
+        color: #D67E34;
+        font-family: Tinos;
+        font-size: 54px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        padding: 0 10px;
+    }
