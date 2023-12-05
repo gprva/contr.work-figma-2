@@ -402,4 +402,20 @@ padding-top: 90px;
     text-align: center;
     width: 33%;
     padding-top: 80px;
+    transition: 0.5s;
+    background: #fff;
+
+}
+.menu_item:hover{ 
+    box-shadow: 0px 0px 18px 0px rgba(238, 12, 12, 0.25); }
+
+
+.menu_txt{
+    font-size: 26px;
+    padding-top: 16px;
+    padding-bottom: 17px;
+}
+.menu_p2{
+    font-size: 16px;
+
 }
