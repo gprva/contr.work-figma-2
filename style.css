@@ -367,3 +367,17 @@
     line-height: normal;
     padding: 0 10px;
 }
+.menu{
+    background-image: url(/img/bgl-menu.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.menu_tit{
+    color: #FFF;
+text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+text-align: center;
+font-size: 54px;
+font-weight: 400;
+padding-bottom: 138px;
+padding-top: 90px;
+}
