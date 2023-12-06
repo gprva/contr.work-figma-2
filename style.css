@@ -487,3 +487,13 @@ border-radius: 50%;
     text-align: center;
 }
 
+.grey_ic_1 {
+    background: #C4C4C4;
+    border: solid #C4C4C4;
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+    display: block;
+    margin: 26px 2px;
+}
+
