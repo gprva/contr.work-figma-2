@@ -498,3 +498,20 @@ margin-bottom: 20px;
     display: block;
     margin: 26px 2px;
 }
+.gallery_block{
+    display: flex;
+    justify-content: center;
+}
+.gallery_left{
+    margin-right: 20px;
+}
+.galery_down{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.galery_up{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
