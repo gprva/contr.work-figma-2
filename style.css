@@ -531,3 +531,10 @@ margin-bottom: 20px;
     color: #FFF;
     text-align: center;
 } */
+.end{
+    background-image: url(/img/finish.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 2571px;
+height: 1604px;
+}
