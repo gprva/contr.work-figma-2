@@ -517,5 +517,8 @@ margin-bottom: 20px;
 }
 .cook_block{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+}
+.img_cook{
+    margin-right: 30px;
 }
