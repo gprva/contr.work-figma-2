@@ -455,3 +455,10 @@ border-radius: 50%;
 .imges{
     text-align: center;
 } */
+.grey_block_p_tit {
+    color: #000;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    padding: 104px 260px 14px;
+}
