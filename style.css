@@ -465,4 +465,7 @@ border-radius: 50%;
 .all_grey_block_img {
     text-align: center;
 }
+.grey_block_img {
+    border-radius: 50%;
+}
 
