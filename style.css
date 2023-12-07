@@ -12,9 +12,16 @@
     padding-top: 50px;
     display: flex;
     align-items: center;
-    justify-content: space-around;
 }
-
+.header_img{
+    margin-left: 165px;
+}
+.header_block{
+    margin-left: 268px;
+}
+.corth{
+    margin-left: 34px;
+}
 .header_a {
     color: #FFF;
     font-family: Open Sans;
@@ -42,7 +49,9 @@
     top: 20px;
     right: 7px;
 }
-
+.phon{
+margin-left: 34px;
+}
 .phon_num {
     color: #FFF;
     font-family: Open Sans;
@@ -59,6 +68,8 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    margin-left: -17px;
+    width: 144px;
 }
 
 .all_btn {
@@ -72,6 +83,8 @@
     line-height: 24px;
     padding: 14px 18px;
     transition: 0.5s;
+    margin-left: 63px;
+    padding: 12px 30px;
 }
 
 .all_btn:hover {
@@ -79,7 +92,25 @@
     border: 1px solid rgb(62, 61, 61);
 
 }
+.block_btn {
+    border: 1px solid #FF7400;
+    transition: 0.3s;
+    color: #f3eeee;
+    background: #FF7400;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    padding: 14px 18px;
+    transition: 0.5s;
+    margin-left: 24px;
+}
 
+.block_btn:hover {
+    background: rgb(62, 61, 61);
+    border: 1px solid rgb(62, 61, 61);
+
+}
 .block_1_tittle {
     color: #D67E35;
     font-family: Tinos;
@@ -87,6 +118,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    margin-top: 33px;
 }
 
 .block_1_h2 {
@@ -94,7 +126,8 @@
     font-family: Tinos;
     font-size: 80px;
     font-weight: 400;
-    margin-bottom: 12px;
+    margin-bottom: -14px;
+    margin-top: -49px;
 }
 
 .block_1_txt {
