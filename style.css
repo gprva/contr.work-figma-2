@@ -133,9 +133,6 @@
   font-family: Tinos;
   font-size: 80px;
   font-weight: 400;
-  margin-bottom: 8px;
-  margin-top: -4px;
-
 }
 
 .block_1_txt {
@@ -565,7 +562,6 @@ margin-left: -42px;
 .gallery_block {
   display: flex;
   justify-content: center;
-  margin-left: -214px;
   margin-top: -66px;
 }
 .gallery_left {
