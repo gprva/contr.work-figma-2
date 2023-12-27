@@ -589,6 +589,31 @@ margin-left: -42px;
 .end_img {
   margin-left: -258px;
 }
-.finish{
-  
+
+.burger{
+  display: flex;
+  position: relative;
+  z-index: 50;
+  align-items: center;
+  justify-content: flex-end;
+  width: 30px;
+  height: 18px;
+}
+.burger span{
+  height: 2px;
+  width: 80%;
+  transform: scale(1);
+  background-color: #f6f6f6;
+}
+.burger::before, .burger::after{
+content: '';
+position: absolute;
+height: 2px;
+width: 100%;
+background-color: #faf6f2;
+transition: all 0.3s ease 0s;
+}
+.burger::before{ top:0 }
+.burger::after{
+bottom: 0;
 }
