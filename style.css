@@ -330,7 +330,7 @@ box-shadow:10px 10px 10px  #444343;
 }
 
 .block_4 {
-  background-image: url(../delicious-1866631_1920\ 1.png);
+  background-image: url(./delicious-1866631_1920\ 1.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 1440px;
@@ -342,7 +342,7 @@ box-shadow:10px 10px 10px  #444343;
 .all_block_4 {
   display: flex;
   justify-content: space-around;
-  background-image: url(../bg.png);
+  background-image: url(./bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 357px;
@@ -430,7 +430,7 @@ margin-left: -42px;
   padding: 0 10px;
 }
 .menu {
-  background: url(../img/bgl-menu.jpg);
+  background: url(./img/bgl-menu.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 1034px;
