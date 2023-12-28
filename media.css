@@ -1,9 +1,11 @@
-@media screen and(max-width:900px){
+@media screen and(max-width: 320px){
     .block_1_tittle{
         font-size: 30px;
     }
     .block_1_h2{
         font-size: 40px;
     }
-    
+    .cards{
+        display: flex none;
+    }
  }
