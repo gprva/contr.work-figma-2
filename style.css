@@ -331,10 +331,6 @@ box-shadow:10px 10px 10px  #444343;
   background-image: url(./delicious-1866631_1920\ 1.png);
   background-repeat: no-repeat;
   background-size: cover;
-  width: 1440px;
-  height: 357px;
-  flex-shrink: 0;
-  
 }
 
 .all_block_4 {
@@ -597,7 +593,5 @@ margin-left: -42px;
 .end_img {
   margin-left: -258px;
 }
-
-
 
 
