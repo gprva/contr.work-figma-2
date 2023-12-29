@@ -305,8 +305,7 @@ box-shadow:10px 10px 10px  #444343;
 }
 
 .history_imges {
- margin-left: 160px;
-}
+  margin-left: -119px;}
 
 .imges-1 {
   position: absolute;
@@ -599,3 +598,7 @@ margin-left: -42px;
 }
 ul { list-style: none; }
 
+.swiper {
+  width: 600px;
+  height: 300px;
+}
