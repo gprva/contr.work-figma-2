@@ -31,7 +31,7 @@
 }
 .header_a {
   color: #fff;
-  font-family: "";
+  font-family: "Open Sans";
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
@@ -407,8 +407,8 @@ margin-left: -42px;
 .txt_tit {
   display: flex;
   justify-content: center;
-  margin: 123px;
-    margin-left: -28px;
+  margin: 116px;
+  margin-left: -85px;
 }
 
 .food_h2 {
@@ -573,6 +573,7 @@ margin-left: -42px;
 }
 .gallery_left {
   margin-right: 20px;
+  margin-left: -205px;
 }
 .galery_down {
   display: flex;
@@ -596,5 +597,5 @@ margin-left: -42px;
 .end_img {
   margin-left: -258px;
 }
-
+ul { list-style: none; }
 
