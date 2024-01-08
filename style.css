@@ -19,6 +19,7 @@
 .all_header {
   padding-top: 50px;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   margin-left: -89px;
 }
@@ -189,6 +190,7 @@ margin: 168px -75px;
   background: #fff;
   margin-top: -140px;
   display: flex;
+  flex-wrap: wrap;
   flex-direction: column;
   align-items: center;
   padding: 48px 20px 30px 20px;
@@ -218,6 +220,7 @@ box-shadow:10px 10px 10px  #444343;
 
 .h3_card {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
@@ -257,6 +260,7 @@ box-shadow:10px 10px 10px  #444343;
 
 .history_tit {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
@@ -266,6 +270,7 @@ box-shadow:10px 10px 10px  #444343;
 
 .history_number {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   width: 444px;
   margin-left: 30px;
@@ -297,6 +302,7 @@ box-shadow:10px 10px 10px  #444343;
 
 .all_history {
   display: flex;
+  flex-wrap: wrap;
   margin: -71px -95px;
 }
 
@@ -336,6 +342,7 @@ box-shadow:10px 10px 10px  #444343;
 
 .all_block_4 {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   background-image: url(./bg.png);
   background-repeat: no-repeat;
@@ -376,9 +383,40 @@ cursor: pointer;
 margin: 82px;
 margin-left: -42px;
 }
+.flex{
+	display: flex;
+}
+.sec_tit{
+	color: #000;
+font-family: Tinos;
+font-size: 54px;
+font-style: normal;
+font-weight: 400;
+margin-bottom: 139px;
+text-align: center;
+}
+.sec_tit__2{
+color: #D67E34;
+}
+.nav_img{
+	padding: 0 23px;
+	margin-bottom: 23px;}
+.dish_p{
+	margin-bottom: 134px;
+	color: #000;
+font-family: Tinos;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.flex_dish_nav{
+	display: flex;
+}
 
 .food_block {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   margin-left: -186px;
 }
@@ -405,6 +443,7 @@ margin-left: -42px;
 
 .txt_tit {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   margin: 116px;
   margin-left: -85px;
@@ -450,6 +489,7 @@ margin-left: -42px;
 
 .menu_cards {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   margin: -104px;
   margin-left: -273px;
@@ -555,6 +595,7 @@ margin-left: -42px;
 
 .grey_ic {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 .grey_ic_3 {
@@ -567,6 +608,7 @@ margin-left: -42px;
 }
 .gallery_block {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   margin-top: -66px;
 }
@@ -576,16 +618,19 @@ margin-left: -42px;
 }
 .galery_down {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   margin-bottom: 20px;
 }
 .galery_up {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   margin-bottom: 20px;
 }
 .cook_block {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 .cook {
