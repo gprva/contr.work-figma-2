@@ -12,7 +12,7 @@
   href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
 />
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="media.css">
+    <link rel="stylesheet" href="./media.css">
 </head>
 
 <body>
@@ -40,8 +40,7 @@
                     <div class="phon">
                         <div class="phin_img"><img src="./img/phone-call 1 (1).png" alt=""></div>
                         <div class="number">
-                            <a href="">
-                            <p class="phon_num">+999-888-76-54</p></a>
+                            <a href="" class="phon_num" >+999-888-76-54</a>
                         </div>
                         <div class="phon_p">Свяжитесь с нами для
                             бронирования</div>
@@ -110,10 +109,11 @@
         <div class="container">
             <div class="all_history">
                 <div class="history_left">
-                    <div class="history_tit">
-                        <h2 class="history_h2"> Наша</h2>
-                        <h2 class="history_h2_2">История</h2>
-                    </div>
+                    
+                        <h2 class="sec_tit">Наши 
+                            <span class="sec_tit sec_tit__2">Блюда</span>
+                        </h2>
+                    
                     <p class="history_p_tit">Как и у любого другого самобытного места, у нас есть своя, особая история.
                         Идея
                         ресторана пришла основателям неожиданно. Во время прогулки по лесу создатель нашего ресторана
@@ -161,32 +161,31 @@
             </div>
     </sectiion>
 
-    <section class="food">
-        <div class="container">
-            <div class="txt_tit">
-                <h2 class="food_h2"> Наши </h2>
-                <h2 class="food_h2_2">Блюда</h2>
-            </div>
-            <div class="food_block">
-                <div class="big_img_food"><img src="./img/food_big.jpg" alt=""></div>
-                <div class="food_imges">
-                    <div class="lit_img"><img src="./img/food_small.jpg" alt=""></div>
-                    <div class="lit_img"><img src="./img/food_small.jpg" alt=""></div>
-                    <div class="lit_img"><img src="./img/food_small.jpg" alt=""></div>
-                </div>
-                <div class="food_txt">
-                    <ul>
-                        <li><p class="food_p">Гамбургер мини ------------------------------- 220 ₽</p></li>
-                        <li> <p class="food_p">Гамбургер мини ------------------------------- 220 ₽</p></li>
-                        <li> <p class="food_p">Гамбургер мини ------------------------------- 220 ₽</p></li>
-                    </ul>
-                        
-                       
-                       
-                </div>
-                
-            </div>
-    </section>
+    <section class="dish">
+		<div class="container">
+			<h2 class="sec_tit">Наши 
+				<span class="sec_tit sec_tit__2">Блюда</span>
+			</h2>
+			<div class="flex">
+				<div class="right_img"><img src="./img/food_big.jpg" alt=""></div>
+				<div class=" flex_dish_nav">
+					<div class="nav_imges">
+						<div class="nav_img"><img src="img/food_small.jpg" alt=""></div>
+						<div class="nav_img"><img src="img/food_small.jpg" alt=""></div>
+						<div class="nav_img"><img src="img/food_small.jpg" alt=""></div>
+					</div>
+
+					<div class="dish_txt">
+						<ul>
+							<li class="dish_p">Гамбургер мини ------------------------------- 220 ₽</li>
+							<li class="dish_p">Гамбургер мини ------------------------------- 220 ₽</li>
+							<li class="dish_p">Гамбургер мини ------------------------------- 220 ₽</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 
 
     <section class="menu">
@@ -252,10 +251,9 @@
     <section class="gallery_num_one">
         <div class="container">
             <div class="gallery">
-                <div class="txt_tit">
-                <h2 class="food_h2"> Галерея</h2>
-                <h2 class="food_h2_2">Блюд</h2>
-            </div>
+                <h2 class="sec_tit">Галлерия 
+					<span class="sec_tit sec_tit__2">Блюд</span>
+				</h2>
 
             <div class="gallery_block">
                 <div class="gallery_left">
@@ -263,14 +261,14 @@
                         <img src="./img/gallery_big-img.jpg" alt="">
                     </div>
                     <div class="galery_down">
-                        <img src="./img/gallery_sm-1.jpg" alt="">
-                        <img src="./img/gallery_sm-2.jpg" alt="">
+                        <img class="gallery_sm_1" src="./img/gallery_sm-1.jpg" alt="">
+                        <img class="gallery_sm_2" src="./img/gallery_sm-2.jpg" alt="">
                     </div>
                 </div>
                 <div class="gallery_right">
                     <div class="galery_down">
-                        <img src="./img/gallery_sm-1.jpg" alt="">
-                        <img src="./img/gallery_sm-2.jpg" alt=""></div>
+                        <img class="gallery_sm_1" src="./img/gallery_sm-1.jpg" alt="">
+                        <img class="gallery_sm_2" src="./img/gallery_sm-2.jpg" alt=""></div>
                     <div class="galery_up">
                             <img src="./img/gallery_big-img.jpg" alt="">
                     </div>
@@ -284,10 +282,9 @@
     <section class="cooking">
         <div class="container">
             <div class="cook">
-                <div class="txt_tit">
-                    <h2 class="food_h2"> Наши  </h2>
-                    <h2 class="food_h2_2">Повара</h2>
-                </div>
+                <h2 class="sec_tit">Наши 
+                    <span class="sec_tit sec_tit__2">Повара</span>
+                </h2>
 
                 <div class="cook_block">
                     <img class="img_cook" src="./img/cook- 1.png" alt="">
